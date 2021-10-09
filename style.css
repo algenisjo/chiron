@@ -92,3 +92,21 @@ body{
     text-align: left;
 }
 
+/* BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER*/
+.banner{
+    /* border: solid 2px red; */
+    font-size: 160px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #323a49;
+    color: white;
+    padding: 150px 0px 60px;
+}
+
+.banner div{
+    width: 40%;
+    /* border: solid 2px red; */
+    align-self: center;
+    text-align: right;
+}
