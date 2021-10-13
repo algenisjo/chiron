@@ -81,21 +81,18 @@ body{
 }
 
 /* BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER*/
-.banner{
-    /* border: solid 2px red; */
+.bottombanner{
     font-size: 160px;
     display: flex;
     justify-content: center;
     flex-direction: column;
-    background-color: #323a49;
+    background-color: burlywood;
     color: white;
-    padding: 100px 0px 60px;
     text-align: center;
 }
 
-.banner div{
+.bottombanner div{
     width: 50%;
-    /* border: solid 2px red; */
     align-self: center;
     text-align: right;
 }
