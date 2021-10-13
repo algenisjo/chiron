@@ -102,7 +102,7 @@ body{
     background-color: #323a49;
     display: flex;
     justify-content: center;
-    padding: 40px 0px;
+    padding: 0px;
 }
 
 
@@ -111,19 +111,20 @@ body{
     display: flex;
     width: 100%;
     justify-content: center;
-    padding: 40px 0px;
+    padding:0px;
     background-color: #323a49;
 }
 
 /* TEXT DROPDOWN BANNER TEXT DROPDOWN BANNER TEXT DROPDOWN BANNER*/
 .textdropbanner{
-        font-size: 160px;
+        font-size: 190px;
         display: flex;
         justify-content: center;
         flex-direction: column;
         background-color: #323a49;
         color: white;
         text-align: center;
+        margin-top: 0px;
 }
     
 .textdropbanner div{
@@ -131,9 +132,6 @@ body{
     align-self: center;
 }
 
-.dopbanner2{
-    border: solid 2px red;
-}
 
 /* BOTTOM BANNER BOTTOM BANNER BOTTOM BANNER */
 
@@ -216,12 +214,14 @@ body{
 }
 
 .div3banner{
-    font-size: 190px;
+
     color: white;
-    padding: 50px 30px 0px 0px;
+    padding: 5px 30px 0px 0px;
+    text-align: left;
 }
 
 .div3paragraph{
+    padding-top: 180px;
     padding-left: 8%;
 }
 
