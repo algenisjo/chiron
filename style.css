@@ -109,6 +109,7 @@ body{
     background-color: #323a49;
     color: white;
     padding: 100px 0px 60px;
+    text-align: center;
 }
 
 .banner div{
@@ -120,6 +121,16 @@ body{
 
 /* DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 */
 
+/* BANNER IMG BANNER IMG BANNER IMG BANNER IMG BANNER IMG BANNER IMG BANNER IMG BANNER IMG */
+.bannerimg{
+    background-color: #323a49;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+
+
 /* FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER */
 footer{
     background-color: black;
@@ -130,29 +141,13 @@ footer{
     font-size: 11px;
 }
 
-/* .footerdiv1{
-    border: solid 2px red;
-}
-.footerdiv2{
-    border: solid 2px red;
-    flex-direction: column;
-}
-.footerdiv3{
-    border: solid 2px red;
-} */
-
 footer div{
     padding:  10px 15px;
     display: flex;
     justify-content: center;
-    /* border:red solid 1px; */
 }
 
 /* SOCIAL LINKS SOCIAL LINKS SOCIAL LINKS SOCIAL LINKS */
-/* .sociallinks{
-    border:red solid 1px;
-} */
-
 .fab{
     font-size: 20px;
     color: white;
