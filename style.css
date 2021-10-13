@@ -120,3 +120,22 @@ body{
 
 /* DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 */
 
+/* FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER */
+footer{
+    background-color: black;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 11px;
+}
+
+.footerdiv3{
+    border: solid 2px red;
+}
+
+footer div{
+    padding: 10px 5px;
+    display: flex;
+    justify-content: center;
+}
