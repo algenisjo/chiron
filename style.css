@@ -56,7 +56,23 @@ body{
     width: 500px;
 }
 
+/* MENU BAR MENU BAR MENU BAR MENU BAR MENU BAR MENU BAR MENU BAR MENU BAR MENU BAR MENU BAR */
+.menubar{
+    display: flex;
+    justify-content: space-between;
+    color: grey;
+    align-items: center;
+    padding: 5px 20px;
+}
 
+.menubarlogo{
+    display:flex;
+    justify-content: center;
+}
+
+.menubarlogo img{
+    width: 8%;
+}
 /* DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 */
 .div1{
     display: flex;
