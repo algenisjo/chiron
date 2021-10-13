@@ -110,6 +110,16 @@ body{
 }
 
 
+/* BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 */
+.bannerimg2{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding: 40px 0px;
+    background-color: #323a49;
+}
+
+
 
 /* FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER */
 footer{
@@ -205,7 +215,6 @@ footer div{
     font-size: 190px;
     color: white;
     padding: 100px 0px;
-
 }
 
 .div3paragraph{
