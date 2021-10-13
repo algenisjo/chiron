@@ -131,6 +131,10 @@ body{
     align-self: center;
 }
 
+.dopbanner2{
+    border: solid 2px red;
+}
+
 /* BOTTOM BANNER BOTTOM BANNER BOTTOM BANNER */
 
 .bottombanner{
@@ -156,7 +160,7 @@ body{
     width: 100%;
     text-align: center;
     justify-content: space-around;
-    padding-top: 40px;
+    padding-top: 80px;
     padding-bottom: 40px;
     background-color: #323a49;
     color: white;
@@ -241,4 +245,14 @@ footer div{
 .fab{
     font-size: 20px;
     color: white;
+}
+
+/* ANIMATE ANIMATE ANIMATE ANIMATE ANIMATE ANIMATE ANIMATE ANIMATE ANIMATE ANIMATE */
+.animate{
+        /* height: 8%;
+        width:100%; */
+        position:relative;
+        opacity: 0.0;
+        /* border: red solid 2px; */
+        background-color: transparent;
 }
