@@ -21,7 +21,7 @@ body{
     width: 75%;
 }
 
-/* Paragraph Fonts and weights and paddings scheme */
+/* PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING*/
 .p1{
     padding: 10px 0px;
     font-size: 20px;
@@ -49,6 +49,13 @@ body{
     line-height: 40px;
 }
 
+/* WHITE LINE BORDER IN PARAGRAPH */
+.whiteline{
+    border: 1px solid white;
+    margin-top: 30px;
+    width: 500px;
+}
+
 
 /* DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 */
 .div1{
@@ -73,32 +80,6 @@ body{
     width:100%;
 }
 
-/* DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 */
-.div2{
-    display: flex;
-    /* border: solid 2px orange; */
-    width: 100%;
-    text-align: center;
-    justify-content: space-around;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    background-color: #323a49;
-    color: white;
-}
-
-.div2 .infoDiv2{
-    /* border: solid 5px green; */
-    width: 50%;
-    text-align: left;
-    padding-left: 5%;
-}
-
-.whiteline{
-    border: 1px solid white;
-    margin-top: 30px;
-    width: 500px;
-}
-
 /* BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER*/
 .banner{
     /* border: solid 2px red; */
@@ -119,7 +100,6 @@ body{
     text-align: right;
 }
 
-/* DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 DIV 3 */
 
 /* BANNER IMG BANNER IMG BANNER IMG BANNER IMG BANNER IMG BANNER IMG BANNER IMG BANNER IMG */
 .bannerimg{
@@ -152,3 +132,54 @@ footer div{
     font-size: 20px;
     color: white;
 }
+/* ----------------------------------------------------------------------------------- */
+
+/* DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 */
+
+.div2{
+    display: flex;
+    /* border: solid 2px orange; */
+    width: 100%;
+    text-align: center;
+    justify-content: space-around;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #323a49;
+    color: white;
+    border: solid 2px red;
+}
+
+.div2 .infoDiv2{
+    /* border: solid 5px green; */
+    width: 50%;
+    text-align: left;
+    padding-left: 5%;
+}
+
+/* DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 DIV 2 */
+.divstyle1{
+    display: flex;
+    /* border: solid 2px orange; */
+    width: 100%;
+    text-align: center;
+    justify-content: space-around;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: green;
+    color: white;
+    border: solid 2px red;
+}
+
+.divstyle1 .infodiv1{
+    /* border: solid 5px green; */
+    width: 50%;
+    text-align: left;
+    padding-left: 5%;
+}
+
+
+/* DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 */
+
+/* DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 */
+
+/* ----------------------------------------------------------------------------------- */
