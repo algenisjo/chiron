@@ -21,7 +21,7 @@ body{
     width: 75%;
 }
 
-/* PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING*/
+/* PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING*/
 .p1{
     padding: 10px 0px;
     font-size: 20px;
@@ -56,7 +56,7 @@ body{
     width: 500px;
 }
 
-/* MENU BAR MENU BAR MENU BAR MENU BAR MENU BAR MENU BAR MENU BAR MENU BAR MENU BAR MENU BAR */
+/* MENU BAR MENU BAR MENU BAR MENU BAR MENU BAR MENU BAR MENU BAR MENU BAR MENU BAR MENU BAR MENU BAR MENU BARMENU BAR MENU BARMENU BAR MENU BARMENU BAR MENU BAR */
 .menubar{
     display: flex;
     justify-content: space-between;
@@ -73,11 +73,10 @@ body{
 .menubarlogo img{
     width: 8%;
 }
-/* DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 */
+/* DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1  */
 .div1{
     display: flex;
     flex-direction: column;
-    /* border: solid 2px orange; */
     width: 100%;
     position: relative;
     text-align: center;
@@ -96,13 +95,50 @@ body{
     width:100%;
 }
 
-/* BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER BANNER*/
+/* BANNERS BANNERS BANNERS BANNERS BANNERS BANNERS BANNERS BANNERS BANNERS BANNERS BANNERS BANNERS BANNERS BANNERS BANNERS BANNERS BANNERS BANNERS BANNERS BANNERS */
+
+/* BANNER IMG BANNER IMG BANNER IMG BANNER IMG */
+.bannerimg{
+    background-color: #323a49;
+    display: flex;
+    justify-content: center;
+    padding: 40px 0px;
+}
+
+
+/* BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 */
+.bannerimg2{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding: 40px 0px;
+    background-color: #323a49;
+}
+
+/* TEXT DROPDOWN BANNER TEXT DROPDOWN BANNER TEXT DROPDOWN BANNER*/
+.textdropbanner{
+        font-size: 160px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        background-color: #323a49;
+        color: white;
+        text-align: center;
+}
+    
+.textdropbanner div{
+    width: 60%;
+    align-self: center;
+}
+
+/* BOTTOM BANNER BOTTOM BANNER BOTTOM BANNER */
+
 .bottombanner{
     font-size: 160px;
     display: flex;
     justify-content: center;
     flex-direction: column;
-    background-color: burlywood;
+    background-color: #323a49;
     color: white;
     text-align: center;
 }
@@ -113,69 +149,7 @@ body{
     text-align: right;
 }
 
-
-/* BANNER IMG BANNER IMG BANNER IMG BANNER IMG BANNER IMG BANNER IMG BANNER IMG BANNER IMG */
-.bannerimg{
-    background-color: #323a49;
-    display: flex;
-    justify-content: center;
-    padding: 40px 0px;
-}
-
-
-/* BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 */
-.bannerimg2{
-    display: flex;
-    width: 100%;
-    justify-content: center;
-    padding: 40px 0px;
-    background-color: #323a49;
-}
-
-/* TEXT DROPDOWN BANNER TEXT DROPDOWN BANNER TEXT DROPDOWN BANNER TEXT DROPDOWN BANNER */
-.textdropbanner{
-        font-size: 160px;
-        display: flex;
-        justify-content: center;
-        flex-direction: column;
-        background-color: brown;
-        color: white;
-        padding: 60px 0px;
-        text-align: center;
-    }
-    
-    .textdropbanner div{
-        width: 60%;
-        align-self: center;
-    }
-
-
-
-
-/* FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER */
-footer{
-    background-color: black;
-    color:white;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    font-size: 11px;
-}
-
-footer div{
-    padding:  10px 15px;
-    display: flex;
-    justify-content: center;
-}
-
-/* SOCIAL LINKS SOCIAL LINKS SOCIAL LINKS SOCIAL LINKS */
-.fab{
-    font-size: 20px;
-    color: white;
-}
-/* ----------------------------------------------------------------------------------- */
-
-/* DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 */
+/* DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 */
 
 .divstyle1{
     display: flex;
@@ -184,7 +158,7 @@ footer div{
     justify-content: space-around;
     padding-top: 40px;
     padding-bottom: 40px;
-    background-color: green;
+    background-color: #323a49;
     color: white;
 
 }
@@ -195,7 +169,7 @@ footer div{
     padding-left: 5%;
 }
 
-/* DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 */
+/* DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2*/
 
 .divstyle2{
     display: flex;
@@ -203,8 +177,7 @@ footer div{
     text-align: center;
     justify-content: space-evenly;
     padding-top: 40px;
-    padding-bottom: 40px;
-    background-color: orangered;
+    background-color: #323a49;
     color: white;
 }
 
@@ -215,14 +188,14 @@ footer div{
 }
 
 
-/* DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 */
+/* DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 */
 
 .divstyle3{
     display: flex;
     width: 100%;
     justify-content: center;
     padding-bottom: 80px;
-    background-color: yellowgreen;
+    background-color: #323a49;
     color: white;
     align-items: center;
 }
@@ -241,30 +214,31 @@ footer div{
 .div3banner{
     font-size: 190px;
     color: white;
-    padding: 100px 0px;
+    padding: 50px 30px 0px 0px;
 }
 
 .div3paragraph{
     padding-left: 8%;
 }
-/* <!-- ---------------------------------- --> */
-.div2{
+
+/* FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER */
+footer{
+    background-color: black;
+    color:white;
     display: flex;
-    /* border: solid 2px orange; */
-    width: 100%;
-    text-align: center;
-    justify-content: space-around;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    background-color: #323a49;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 11px;
+}
+
+footer div{
+    padding:  10px 15px;
+    display: flex;
+    justify-content: center;
+}
+
+/* SOCIAL LINKS SOCIAL LINKS  */
+.fab{
+    font-size: 20px;
     color: white;
 }
-
-.div2 .infoDiv2{
-    /* border: solid 5px green; */
-    width: 50%;
-    text-align: left;
-    padding-left: 5%;
-}
-
-/* ----------------------------------------------------------------------------------- */
