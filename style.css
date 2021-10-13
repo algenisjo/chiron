@@ -130,12 +130,30 @@ footer{
     font-size: 11px;
 }
 
-.footerdiv3{
+/* .footerdiv1{
     border: solid 2px red;
 }
+.footerdiv2{
+    border: solid 2px red;
+    flex-direction: column;
+}
+.footerdiv3{
+    border: solid 2px red;
+} */
 
 footer div{
-    padding: 10px 5px;
+    padding:  10px 15px;
     display: flex;
     justify-content: center;
+    /* border:red solid 1px; */
+}
+
+/* SOCIAL LINKS SOCIAL LINKS SOCIAL LINKS SOCIAL LINKS */
+/* .sociallinks{
+    border:red solid 1px;
+} */
+
+.fab{
+    font-size: 20px;
+    color: white;
 }
