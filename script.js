@@ -70,11 +70,47 @@
 
 // HOVER ANIMATION FOR SLIDING IMAGES --------------------------- -------------------------- --------------------------
 
+// $(document).ready(function(){
+//   $("div.animateimg").hover(function(){
+//     $("div.img1").animate({
+//      right: '10%',
+//      top: '10%', 
+//       opacity: 1.0
+//     }, "slow");
+//   });
+// });
+
 $(document).ready(function(){
-  $("div.animateimg").hover(function(){
-    $("div.img1").animate({
-     right: '10%',
-     top: '10%', 
+  $("div.slide1").hover(function(){
+    $("div.slide1").animate({
+      right: '5%', 
+      opacity: 1.0
+    }, "slow");
+  });
+});
+
+$(document).ready(function(){
+  $("div.slide2").hover(function(){
+    $("div.slide2").animate({
+      right: '5%',
+      opacity: 1.0
+    }, "slow");
+  });
+});
+
+$(document).ready(function(){
+  $("div.slide3").hover(function(){
+    $("div.slide3").animate({
+      left: '5%', 
+      opacity: 1.0
+    }, "slow");
+  });
+});
+
+$(document).ready(function(){
+  $("div.slide4").hover(function(){
+    $("div.slide4").animate({
+      left: '5%', 
       opacity: 1.0
     }, "slow");
   });
