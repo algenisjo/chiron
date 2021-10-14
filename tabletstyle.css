@@ -1,0 +1,38 @@
+/* ADDING BREAKPOINTS / MEDIA QUERIES------------------------------------------------------------------- */
+
+/* 481px — 1024px: Tablets and Laptops ----------------------------------*/
+
+@media only screen and (min-width: 481px) and (max-width: 1024px) {
+
+
+body{
+width: 100%;
+}
+
+/* DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1  */
+
+.top-left{
+    position:absolute;
+    top: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* END OF MEDIA QUERY */
+
+/* END OF MEDIA QUERY */
+
+/* END OF MEDIA QUERY */
+
+/* END OF MEDIA QUERY */
+
+}
