@@ -70,18 +70,9 @@
 
 // HOVER ANIMATION FOR SLIDING IMAGES --------------------------- -------------------------- --------------------------
 
-// $(document).ready(function(){
-//   $("div.animateimg").hover(function(){
-//     $("div.img1").animate({
-//      right: '10%',
-//      top: '10%', 
-//       opacity: 1.0
-//     }, "slow");
-//   });
-// });
 
 $(document).ready(function(){
-  $("div.slide1").hover(function(){
+  $("div.hover1").hover(function(){
     $("div.slide1").animate({
       right: '5%', 
       opacity: 1.0
@@ -90,7 +81,7 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-  $("div.slide2").hover(function(){
+  $("div.hover2").hover(function(){
     $("div.slide2").animate({
       right: '5%',
       opacity: 1.0
@@ -99,7 +90,7 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-  $("div.slide3").hover(function(){
+  $("div.hover3").hover(function(){
     $("div.slide3").animate({
       left: '5%', 
       opacity: 1.0
@@ -108,8 +99,17 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-  $("div.slide4").hover(function(){
+  $("div.hover4").hover(function(){
     $("div.slide4").animate({
+      right: '5%', 
+      opacity: 1.0
+    }, "slow");
+  });
+});
+
+$(document).ready(function(){
+  $("div.hover5").hover(function(){
+    $("div.slide5").animate({
       left: '5%', 
       opacity: 1.0
     }, "slow");
