@@ -1,6 +1,6 @@
   $(document).ready(function(){
     $("div.drop1").hover(function(){
-      $("div.textdropbanner").animate({
+      $("div.fall1").animate({
        top: '40px',
         // height: '50%',
         // width: '100%',  
@@ -11,8 +11,8 @@
 
   $(document).ready(function(){
     $("div.drop2").hover(function(){
-      $("div.textdropbanner").animate({
-       top: '200px',
+      $("div.fall2").animate({
+       top: '20px',
         // height: '50%',
         // width: '100%',  
         opacity: 1.0
@@ -22,8 +22,8 @@
 
   $(document).ready(function(){
     $("div.drop3").hover(function(){
-      $("div.textdropbanner").animate({
-       top: '200px',
+      $("div.fall3").animate({
+       top: '20px',
         // height: '50%',
         // width: '100%',  
         opacity: 1.0
@@ -33,8 +33,8 @@
 
   $(document).ready(function(){
     $("div.drop4").hover(function(){
-      $("div.textdropbanner").animate({
-       top: '150px',
+      $("div.fall4").animate({
+       top: '40px',
         // height: '50%',
         // width: '100%',  
         opacity: 1.0
@@ -44,8 +44,8 @@
 
   $(document).ready(function(){
     $("div.drop5").hover(function(){
-      $("div.textdropbanner").animate({
-       top: '150px',
+      $("div.fall5").animate({
+       top: '50px',
         // height: '50%',
         // width: '100%',  
         opacity: 1.0
@@ -55,8 +55,8 @@
 
   $(document).ready(function(){
     $("div.drop6").hover(function(){
-      $("div.textdropbanner").animate({
-       top: '150px',
+      $("div.fall6").animate({
+       top: '50px',
         // height: '50%',
         // width: '100%',  
         opacity: 1.0
