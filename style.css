@@ -124,12 +124,21 @@ body{
         background-color: #323a49;
         color: white;
         text-align: center;
-        margin-top: 0px;
+        /* margin-top: -20px; */
 }
     
 .textdropbanner div{
     width: 60%;
     align-self: center;
+}
+
+/* ANIMATE ANIMATE ANIMATE ANIMATE ANIMATE ANIMATE ANIMATE */
+.animate{
+    /* height: 0%;
+    width:100%; */
+    position:relative;
+    opacity: 0.0;
+    background-color: transparent;
 }
 
 
@@ -221,7 +230,7 @@ body{
 }
 
 .div3paragraph{
-    padding-top: 180px;
+    padding-top: 100px;
     padding-left: 8%;
 }
 
@@ -247,12 +256,3 @@ footer div{
     color: white;
 }
 
-/* ANIMATE ANIMATE ANIMATE ANIMATE ANIMATE ANIMATE ANIMATE ANIMATE ANIMATE ANIMATE */
-.animate{
-        /* height: 8%;
-        width:100%; */
-        position:relative;
-        opacity: 0.0;
-        /* border: red solid 2px; */
-        background-color: transparent;
-}
