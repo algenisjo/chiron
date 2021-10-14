@@ -1,3 +1,5 @@
+  // hover animations for drop down text --------------------------------------------
+  
   $(document).ready(function(){
     $("div.drop1").hover(function(){
       $("div.fall1").animate({
@@ -63,3 +65,17 @@
       }, "slow");
     });
   });
+
+// end of hover animations for drop down text -----------------------------------------------------------------------
+
+// HOVER ANIMATION FOR SLIDING IMAGES --------------------------- -------------------------- --------------------------
+
+$(document).ready(function(){
+  $("div.animateimg").hover(function(){
+    $("div.img1").animate({
+     right: '10%',
+     top: '10%', 
+      opacity: 1.0
+    }, "slow");
+  });
+});
