@@ -9,6 +9,13 @@ body{
 width: 100%;
 }
 
+/* PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING*/
+.p2{
+    padding: 30px 0px;
+    width: 95%;
+    font-size: 40px;
+}
+
 /* DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1  */
 
 .top-left{
@@ -16,12 +23,15 @@ width: 100%;
     top: 10%;
 }
 
+/* DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 */
 
+.divstyle1{
+    background-color: green;
+}
 
-
-
-
-
+.divstyle1 .infodiv1{
+    width: 40%;
+}
 
 
 
