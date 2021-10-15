@@ -39,6 +39,18 @@ body{
 }
 
 
+/* DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2 DIV STYLE 2*/
+
+.divstyle2{
+    border: dashed 3px pink;
+    flex-direction: column-reverse;
+    padding-top: 10px;
+}
+
+.divstyle2 .infodiv2{
+    width: 100%;
+    padding: 3%;
+}
 
 
 
