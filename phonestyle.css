@@ -1,16 +1,37 @@
 /* ADDING BREAKPOINTS / MEDIA QUERIES------------------------------------------------------------------- */
 
 /* 320px — 480px: Mobile devices ----------------------------------*/
-@media only screen and (max-width: 780px) {
+@media only screen and (max-width: 480px) {
 
 body{
     width: 100%;
 }
 
-/* DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1  */
+/* PARAGRAPH FONTS STYLING PARAGRAPH FONT STYLING*/
+.p1{
+    font-size: 17px;
+    /* font-weight: 100; */
+}
+
+.p2{
+    font-size: 20px;
+    /* font-weight:lighter; */
+}
+
+.p3{
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.p4{
+    font-size: 20px;
+    line-height: 30px;
+}
+
+/* DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 */
 
 .top-left{
-    font-size: 20px;
+    font-size: 12px;
     left: 10%;
     top: 10%;
 }
@@ -19,13 +40,18 @@ body{
 
 .divstyle1{
     /* background-color: tan; */
-    flex-direction: column-reverse;
+    flex-direction: column;
     
 }
 
 .divstyle1 .infodiv1{
     width: 100%;
     padding: 5%;
+}
+
+.divimg1 img {
+    border: solid red 2px;
+    width: 80%;
 }
 
 /* TEXT DROPDOWN BANNER TEXT DROPDOWN BANNER*/
