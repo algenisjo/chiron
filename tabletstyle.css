@@ -75,7 +75,10 @@ width: 100%;
 }
 
 
-
+/* WHITE LINE BORDER IN PARAGRAPH */
+.whiteline{
+    width: 200px;
+}
 
 
 
