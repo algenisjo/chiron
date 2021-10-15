@@ -5,7 +5,6 @@
 /* MEDIA QUERY FOR TABLETS IS IN tabletstyle.css */
 /* MEDIA QUERY FOR PHONES IS IN phonestyle.css */
 
-
 *{
     padding:0;
     margin: 0;
@@ -277,3 +276,4 @@ footer div{
 text-decoration: underline;
 text-decoration-color: red;
 }
+
