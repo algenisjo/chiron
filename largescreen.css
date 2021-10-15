@@ -27,7 +27,9 @@ Large (1008px and larger) */
     width: 200px;
 }
 
-
+.divstyle3{
+    padding-top: 40px;
+}
 .div3img img{
     padding-left: 0%;
     width: 100%;
