@@ -16,4 +16,16 @@ Large (1008px and larger) */
 .textdropbanner .animate{
     width: 100%;
 }
+
+.infodiv1{
+    padding-left: 200px;
+}
+
+.whiteline{
+    border: 1px solid white;
+    margin-top: 30px;
+    width: 200px;
+}
+
+
 }
