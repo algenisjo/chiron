@@ -51,7 +51,7 @@ width: 100%;
 /* .divstyle3{
     background-color: salmon;
 } */
-
+/* 
 .divstyle3 .infodiv3{
     width: 40%;
     padding-top: 90px;
@@ -72,10 +72,35 @@ width: 100%;
 .div3paragraph{
     padding-top: 100px;
     padding-left: 10%;
-    /* border: red solid 2px; */
+    border: red solid 2px;
+} */
+
+.divstyle3{
+    padding-top: 40px;
+}
+.div3img img{
+    padding-left: 0%;
+    width: 100%;
+
 }
 
+.div3banner{
+    font-size: 100px;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    text-align: center;
+    
+}
 
+.divstyle3 .infodiv3{
+    width: 100%;
+    text-align: left;
+}
+
+.div3paragraph{
+    padding-left: 20%;
+
+}
 /* WHITE LINE BORDER IN PARAGRAPH */
 .whiteline{
     width: 200px;
