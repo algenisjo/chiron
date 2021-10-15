@@ -14,9 +14,18 @@ body{
     left: 0px;
 }
 
+/* DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 */
 
+.divstyle1{
+    background-color: tan;
+    flex-direction: column-reverse;
+    
+}
 
-
+.divstyle1 .infodiv1{
+    width: 100%;
+    padding: 5%;
+}
 
 
 
