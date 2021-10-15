@@ -1,0 +1,67 @@
+/* ADDING BREAKPOINTS / MEDIA QUERIES------------------------------------------------------------------- */
+
+/* 320px — 480px: Mobile devices ----------------------------------*/
+@media only screen and (max-width: 780px) {
+
+body{
+    width: 100%;
+}
+
+/* DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1  */
+
+.top-left{
+    font-size: 20px;
+    left: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* END OF MEDIA QUERY */
+
+/* END OF MEDIA QUERY */
+
+/* END OF MEDIA QUERY */
+
+/* END OF MEDIA QUERY */
+}
