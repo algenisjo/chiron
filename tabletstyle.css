@@ -53,53 +53,42 @@ width: 100%;
 /* DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 DIV STYLE 3DIV STYLE 3 DIV STYLE 3 DIV STYLE 3 */
 
 
-/* .divstyle3{
-    background-color: salmon;
-} */
-/* 
-.divstyle3 .infodiv3{
-    width: 40%;
-    padding-top: 90px;
-}
-
-
- .div3img{
-    width: 60%;
-    padding-left: 1%;
-}
-
-
-.div3banner{
-    font-size: 70px;
-    text-align: center;
-}
-
-.div3paragraph{
-    padding-top: 100px;
-    padding-left: 10%;
-    border: red solid 2px;
-} */
-
 .divstyle3{
     padding-top: 40px;
+    /* border: 2px red solid; */
 }
+
 .div3img img{
-    padding-left: 0%;
+    width: 100%;
+    /* border: 2px red solid; */
+}
+
+.div3img{
+    width: 100%;
+    /* border: 2px red solid; */
+}
+
+/* .animateimg img{
+    width: 100%;
+} */
+/* .div3img{
     width: 100%;
 
-}
+} */
 
 .div3banner{
     font-size: 100px;
     padding-top: 0px;
     padding-bottom: 20px;
     text-align: center;
+    /* border: 2px red solid; */
     
 }
 
 .divstyle3 .infodiv3{
     width: 100%;
     text-align: left;
+    /* border: 2px red solid; */
 }
 
 .div3paragraph{
@@ -111,11 +100,15 @@ width: 100%;
     width: 200px;
 }
 
+/* .div3img .force{
+    
+    border: solid 2px yellowgreen;
+}   */
 
-
-
-
-
+/* .div3img img{
+    width: 100%;
+    border: 2px red solid;
+} */
 
 
 
