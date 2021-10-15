@@ -28,4 +28,28 @@ Large (1008px and larger) */
 }
 
 
+.div3img img{
+    padding-left: 0%;
+    width: 100%;
+
+}
+
+.div3banner{
+    font-size: 100px;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    text-align: center;
+    
+}
+
+.divstyle3 .infodiv3{
+    width: 100%;
+    text-align: left;
+}
+
+.div3paragraph{
+    padding-left: 20%;
+    /* padding-right: 0%; */
+}
+
 }
