@@ -11,7 +11,8 @@ body{
 
 .top-left{
     font-size: 20px;
-    left: 0px;
+    left: 10%;
+    top: 10%;
 }
 
 /* DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 */
@@ -36,6 +37,7 @@ body{
 /* BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 */
 .bannerimg2{
     max-width: 100%;
+    padding-top: 20px;
 }
 
 .bannerimg{
@@ -61,6 +63,7 @@ body{
     display: flex;
     flex-direction: column;
     /* background-color: purple; */
+    padding-bottom: 0px;
 }
 
 .divstyle3 .infodiv3{
