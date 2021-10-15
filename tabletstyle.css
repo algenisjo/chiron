@@ -30,8 +30,13 @@ width: 100%;
 } */
 
 .divstyle1 .infodiv1{
-    width: 40%;
+    width: 70%;
 }
+
+.divimg1 img {
+    width: 100%;
+}
+
 
 /* TEXT DROPDOWN BANNER TEXT DROPDOWN BANNER TEXT DROPDOWN BANNER*/
 
