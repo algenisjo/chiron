@@ -54,6 +54,18 @@ width: 100%;
     font-size: 90px;
 }
 
+/* BANNER IMG  */
+
+/* .hotspot{
+    border:greenyellow solid 2px;
+    width: 100%;
+    background-image: url("img/hotspot.jpg");
+    background-position: 50%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 500px;
+} */
+
 /* BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 */
 .bannerimg2 img{
     /* border: solid 2px red; */
