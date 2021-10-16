@@ -1,6 +1,6 @@
 /* ADDING BREAKPOINTS / MEDIA QUERIES------------------------------------------------------------------- */
 
-/* 781px — 1200px: Tablets and Laptops ----------------------------------*/
+/* 481px — 1400px: Tablets and Laptops ----------------------------------*/
 
 @media only screen and (min-width: 481px) and (max-width: 1400px) {
 
@@ -9,6 +9,16 @@ body{
 width: 100%;
 }
 
+/* MENU BAR LOGO MENU BAR LOGO MENU BAR LOGO MENU BAR LOGO MENU BAR LOGO */
+.menubarlogo img{
+    /* border:greenyellow solid 2px; */
+    width: 10%;
+    height: 10%;
+}
+
+.menubar p{
+    font-size: 10px;
+}
 /* PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING PARAGRAPH FONTS STYLING*/
 .p2{
     padding: 30px 0px;
