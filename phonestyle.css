@@ -50,8 +50,17 @@ body{
 }
 
 .divimg1 img {
-    border: solid red 2px;
     width: 80%;
+    margin: 5%;
+}
+
+.divimg1{
+    width: 100%;
+}
+/* ANIMATE IMG ANIMATE IMG ANIMATE IMG ANIMATE IMG ANIMATE IMG */
+/* this below allows the imgaes in divstyle 1 to not move and allow me to center the images */
+.animateimg{
+    position: inherit;
 }
 
 /* TEXT DROPDOWN BANNER TEXT DROPDOWN BANNER*/
