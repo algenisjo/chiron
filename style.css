@@ -128,7 +128,36 @@ body{
     background-position: 50%;
     background-size: contain;
     background-repeat: no-repeat;
-    height: 500px;
+    height: 350px;
+}
+.image2{
+    border:greenyellow solid 2px;
+    width: 100%;
+    background-image: url("img/image2.jpg");
+    background-position: 50%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 350px;
+}
+
+.sensorial{
+    border:greenyellow solid 2px;
+    width: 100%;
+    background-image: url("img/sensorial.jpg");
+    background-position: 50%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 350px;
+}
+
+.bugattigallery{
+    border:greenyellow solid 2px;
+    width: 100%;
+    background-image: url("img/bugattigallery.jpg");
+    background-position: 50%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 350px;
 }
 
 /* BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 */
