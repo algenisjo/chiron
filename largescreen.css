@@ -54,4 +54,29 @@ Large (1008px and larger) */
     /* padding-right: 0%; */
 }
 
+
+.hotspot{
+    /* border:greenyellow solid 2px; */
+    height: 900px;
+}
+.image2{
+    /* border:greenyellow solid 2px; */
+    height: 850px;
+}
+
+.sensorial{
+    height: 850px;
+}
+
+.bugattigallery{
+    height: 950px;
+}
+
+/* END OF MEDIA QUERY */
+
+/* END OF MEDIA QUERY */
+
+/* END OF MEDIA QUERY */
+
+/* END OF MEDIA QUERY */
 }
