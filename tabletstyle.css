@@ -2,7 +2,7 @@
 
 /* 781px — 1200px: Tablets and Laptops ----------------------------------*/
 
-@media only screen and (min-width: 481px) and (max-width: 1024px) {
+@media only screen and (min-width: 481px) and (max-width: 1400px) {
 
 
 body{
@@ -31,6 +31,7 @@ width: 100%;
 
 .divstyle1 .infodiv1{
     width: 70%;
+    flex-wrap: wrap;
 }
 
 .divimg1 img {
