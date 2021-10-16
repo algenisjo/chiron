@@ -64,9 +64,16 @@ body{
 }
 
 /* TEXT DROPDOWN BANNER TEXT DROPDOWN BANNER*/
-.textdropbanner{
-    font-size: 80px;
+.textdropbanner div{
+    font-size: 50px;
+    border:2px  solid greenyellow;
+    width: 100%;
+    padding-bottom: 10px;
+}
 
+.animate{
+    position: inherit;
+    opacity: 1;
 }
 
 /* BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 */
