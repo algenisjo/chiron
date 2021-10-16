@@ -118,11 +118,11 @@ body{
     background-color: #323a49;
     display: flex;
     justify-content: center;
-    padding-top: 60px;
+    padding-top: 10px;
 }
 
 .hotspot{
-    border:greenyellow solid 2px;
+    /* border:greenyellow solid 2px; */
     width: 100%;
     background-image: url("img/hotspot.jpg");
     background-position: 50%;
@@ -131,7 +131,7 @@ body{
     height: 350px;
 }
 .image2{
-    border:greenyellow solid 2px;
+    /* border:greenyellow solid 2px; */
     width: 100%;
     background-image: url("img/image2.jpg");
     background-position: 50%;
@@ -141,7 +141,7 @@ body{
 }
 
 .sensorial{
-    border:greenyellow solid 2px;
+    /* border:greenyellow solid 2px; */
     width: 100%;
     background-image: url("img/sensorial.jpg");
     background-position: 50%;
@@ -151,13 +151,24 @@ body{
 }
 
 .bugattigallery{
-    border:greenyellow solid 2px;
+    /* border:greenyellow solid 2px; */
     width: 100%;
     background-image: url("img/bugattigallery.jpg");
     background-position: 50%;
     background-size: contain;
     background-repeat: no-repeat;
     height: 350px;
+}
+
+.bannerlogo{
+    /* border:greenyellow solid 2px; */
+    width: 100%;
+    background-image: url("img/logo.png");
+    background-position: 50%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-bottom: 10px;
+    height: 30px;
 }
 
 /* BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 BANNER IMG 2 */
@@ -168,6 +179,7 @@ body{
     padding:0px;
     background-color: #323a49;
 }
+
 
 /* TEXT DROPDOWN BANNER TEXT DROPDOWN BANNER TEXT DROPDOWN BANNER*/
 .textdropbanner{
