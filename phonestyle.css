@@ -28,12 +28,24 @@ body{
     line-height: 30px;
 }
 
+/* MENU BAR LOGO MENU BAR LOGO MENU BAR LOGO MENU BAR LOGO MENU BAR LOGO */
+.menubarlogo img{
+    /* border:greenyellow solid 2px; */
+    width: 30%;
+    height: 30%;
+}
+
 /* DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 DIV 1 */
 
 .top-left{
     font-size: 12px;
     left: 10%;
     top: 10%;
+}
+.div1{
+    border:greenyellow solid 2px;
+    width: 100%;
+    height: 100%;
 }
 
 /* DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 */
@@ -148,12 +160,6 @@ body{
     width: 230px;
 }
 
-/* MENU BAR LOGO MENU BAR LOGO MENU BAR LOGO MENU BAR LOGO MENU BAR LOGO */
-.menubarlogo img{
-    /* border:greenyellow solid 2px; */
-    width: 30%;
-    height: 30%;
-}
 
 
 
