@@ -6,6 +6,10 @@ Large (1008px and larger) */
 /* 320px — 480px: Mobile devices ----------------------------------*/
 @media only screen and (min-width: 1401px) {
 
+.div1{
+    height: 800px;
+}
+
 /* TEXT DROPDOWN BANNER TEXT DROPDOWN BANNER TEXT DROPDOWN BANNER*/
 
 .textdropbanner{
