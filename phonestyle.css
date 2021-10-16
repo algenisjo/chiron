@@ -41,7 +41,7 @@ body{
 .divstyle1{
     /* background-color: tan; */
     flex-direction: column;
-    
+    padding-top: 2px;
 }
 
 .divstyle1 .infodiv1{
@@ -131,9 +131,10 @@ body{
 
 
 .div3paragraph{
-    padding-top: 100px;
+    padding-top: 10px;
     padding-left: 8%;
     padding-bottom: 40px;
+    /* border: dashed 2px greenyellow; */
 }
 
 .div3img img {
