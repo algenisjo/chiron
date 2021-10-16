@@ -39,13 +39,18 @@ body{
 
 .top-left{
     font-size: 12px;
-    left: 10%;
-    top: 10%;
+    left: 1%;
+    /* top: 15%; */
+    position: inherit;
+    height: 500px;
 }
 .div1{
     border:greenyellow solid 2px;
-    width: 10%;
-    height: 10%;
+    width: 100%;
+    background-image: url("img/image1.jpg");
+    background-position: 30%;
+    background-size: cover;
+    height: 500px;
 }
 
 /* DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 */
