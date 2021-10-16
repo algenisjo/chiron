@@ -150,9 +150,9 @@ body{
 
 /* MENU BAR LOGO MENU BAR LOGO MENU BAR LOGO MENU BAR LOGO MENU BAR LOGO */
 .menubarlogo img{
-    border:greenyellow solid 2px;
-    width: 20%;
-    height: 20%;
+    /* border:greenyellow solid 2px; */
+    width: 30%;
+    height: 30%;
 }
 
 
