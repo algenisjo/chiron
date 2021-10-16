@@ -45,7 +45,7 @@ body{
     height: 500px;
 }
 .div1{
-    border:greenyellow solid 2px;
+    /* border:greenyellow solid 2px; */
     width: 100%;
     background-image: url("img/image1.jpg");
     background-position: 30%;
