@@ -45,12 +45,7 @@ body{
     height: 500px;
 }
 .div1{
-    /* border:greenyellow solid 2px; */
-    width: 100%;
-    background-image: url("img/image1.jpg");
-    background-position: 30%;
-    background-size: cover;
-    height: 500px;
+   display: none;
 }
 
 /* DIV STYLE 1 DIV STYLE 1 DIV STYLE 1 */
